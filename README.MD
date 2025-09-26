@@ -1,1 +1,1 @@
-Genetic Algorithm for polynomial equation solving I did in highschool
+Genetic Algorithm for polynomial equation solving I did in high school.
